@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/HomeworkForIgnat-master/precache-manifest.0798fdf110a659fadf86bba067391433.js"
+  "/HomeworkForIgnat-master/precache-manifest.613c5ddf155ba96a09d2cbeb28fe6a20.js"
 );
 
 workbox.clientsClaim();
