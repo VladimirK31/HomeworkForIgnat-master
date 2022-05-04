@@ -22,7 +22,7 @@ function Pages() {
         {/*в начале мы попадаем на страницу '/' и переходим сразу на страницу PRE_JUNIOR*/}
         <Route path={'/'} element={<Navigate to={PATH.PRE_JUNIOR} />} />
         <Route path={PATH.PRE_JUNIOR} element={<PreJunior />} />
-        <Route path={PATH.PRE_JUN} element={<PreJun /> ? <Error404 /> : ''} />
+        <Route path={PATH.PRE_JUN} element={<PreJun />} />
         <Route
           path={PATH.PRE_JUNPLUS}
           element={<PreJunPlus /> ? <Error404 /> : ''}
