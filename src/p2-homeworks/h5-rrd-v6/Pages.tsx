@@ -23,10 +23,7 @@ function Pages() {
         <Route path={'/'} element={<Navigate to={PATH.PRE_JUNIOR} />} />
         <Route path={PATH.PRE_JUNIOR} element={<PreJunior />} />
         <Route path={PATH.PRE_JUN} element={<PreJun />} />
-        <Route
-          path={PATH.PRE_JUNPLUS}
-          element={<PreJunPlus /> ? <Error404 /> : ''}
-        />
+        <Route path={PATH.PRE_JUNPLUS} element={<PreJunPlus />} />
         // add routes
         {/*он отрисуется если пользователь захочет попасть на несуществующую страницу*/}
         <Route path={'/*'} element={<Error404 />} />
