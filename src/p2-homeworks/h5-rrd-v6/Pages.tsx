@@ -26,7 +26,7 @@ function Pages() {
         <Route path={PATH.PRE_JUNPLUS} element={<PreJunPlus />} />
         // add routes
         {/*он отрисуется если пользователь захочет попасть на несуществующую страницу*/}
-        <Route path={'/*'} element={<Error404 />} />
+        <Route path={PATH.Error404} element={<Error404 />} />
       </Routes>
     </div>
   )
