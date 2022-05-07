@@ -14,7 +14,7 @@
   user-select: none;
   appearance: none;
   touch-action: manipulation;
-  vertical-align: top;
+  /* vertical-align: top; */
   transition: box-shadow 0.2s;
 }
 .default:focus-visible {
