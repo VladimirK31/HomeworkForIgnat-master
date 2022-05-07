@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "71cc6059adc1144d5ade",
-    "url": "/HomeworkForIgnat-master/static/css/main.622fe8e6.chunk.css"
+    "revision": "899d7061c65b10abd04d",
+    "url": "/HomeworkForIgnat-master/static/css/main.10dee767.chunk.css"
   },
   {
-    "revision": "71cc6059adc1144d5ade",
-    "url": "/HomeworkForIgnat-master/static/js/main.8ba5e192.chunk.js"
+    "revision": "899d7061c65b10abd04d",
+    "url": "/HomeworkForIgnat-master/static/js/main.891e4c58.chunk.js"
   },
   {
     "revision": "7e7e704f5d7bb67274d5",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/HomeworkForIgnat-master/static/js/2.f9935eb3.chunk.js"
   },
   {
-    "revision": "366b21983bfc5c3c44eef0b14c6ad202",
+    "revision": "1d0c297f5c31a2084cfad569b676eaf7",
     "url": "/HomeworkForIgnat-master/index.html"
   }
 ];
