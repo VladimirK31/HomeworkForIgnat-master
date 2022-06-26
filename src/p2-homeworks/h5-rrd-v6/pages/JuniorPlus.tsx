@@ -4,11 +4,11 @@ import HW2 from '../../h2/HW2'
 import HW3 from '../../h3/HW3'
 import HW4 from '../../h4/HW4'
 
-function PreJunPlus() {
+function JuniorPlus() {
   return <div>{/* <HW12 /> */}</div>
 }
 
-export default PreJunPlus
+export default JuniorPlus
 
 // сделайте по аналогии пустые страницы джун и джун+
 // туда будут добавляться следующие дз

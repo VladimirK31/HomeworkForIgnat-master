@@ -1,4 +1,27 @@
-.header a {
+.header {
+  display: flex;
+  width: 280px;
+  transform: translate(-220px);
+  transition-duration: 500ms;
+}
+.header:hover {
+  transform: translate(0);
+  transition-duration: 500ms;
+}
+.link {
   text-decoration: none;
-  color: rgb(45, 11, 238);
+  color: rgb(255, 0, 0);
+  margin: 10px;
+}
+.link:hover {
+  color: crimson;
+}
+.block {
+  width: 15px;
+  height: 15px;
+  background: blueviolet;
+  margin: 15px;
+}
+.active {
+  color: deeppink;
 }
